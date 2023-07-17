@@ -1,0 +1,12 @@
+body{
+    background-image: url(projectsbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p,div  {
+    background-color: aqua;
+    padding: auto;
+}
+body a{
+    background-color: beige;
+}

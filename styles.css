@@ -1,0 +1,15 @@
+img#faceContact {
+    width: 200px; /* Adjust the width as per your requirement */
+    height: auto; /* Maintain the aspect ratio */
+  }
+  
+  footer {
+    position: fixed; /* Assuming you want to fix the footer at the bottom */
+    bottom: 0; /* Position the footer at the bottom */
+  }
+  nav{
+    text-align: center;
+ }
+ nav a{
+    margin-right: 20px;
+ }
