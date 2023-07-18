@@ -6,7 +6,7 @@ body{
 p,div  {
     color: aqua;
     padding: auto;
-    width: 200px;
+    width: auto;
 }
 body a{
     color: beige;
