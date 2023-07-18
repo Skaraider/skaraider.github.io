@@ -11,3 +11,6 @@ p,div  {
 body a{
     color: beige;
 }
+iframe{
+    align-items: center;
+}
