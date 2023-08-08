@@ -5,3 +5,6 @@
 body{
  background-color: darkgray;
 }
+nav,a {background-color: black;
+color: aqua;
+}
