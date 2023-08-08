@@ -4,13 +4,19 @@ body{
     background-size: cover;
 }
 p,div  {
-    color: black;
+    color:black
     padding: auto;
     width: auto;
+    
 }
-body a{
-    color: beige;
-}
+p,div{background-color: #ccc;}
+
+    nav,a {background-color: black;
+        color: aqua;
+        }
+
 iframe{
     align-items: center;
 }
+
+  
