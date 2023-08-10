@@ -34,7 +34,12 @@ table {
   
   
 }
-.progressPic {width: 50%;}
+.progressPic {
+   width: 50%;
+   height: 50%;
+   border:   1px:
+}
+
 
 
 button[data-target] {
